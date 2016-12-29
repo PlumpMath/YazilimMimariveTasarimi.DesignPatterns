@@ -1,0 +1,3 @@
+C:\Users\YakupAd-MacBook-Win7\Documents\Visual Studio 2013\Projects\Decodeer\Decodeer\bin\Debug\Decodeer.exe.config
+C:\Users\YakupAd-MacBook-Win7\Documents\Visual Studio 2013\Projects\Decodeer\Decodeer\obj\Debug\Decodeer.Properties.Resources.resources
+C:\Users\YakupAd-MacBook-Win7\Documents\Visual Studio 2013\Projects\Decodeer\Decodeer\obj\Debug\Decodeer.csproj.GenerateResource.Cache

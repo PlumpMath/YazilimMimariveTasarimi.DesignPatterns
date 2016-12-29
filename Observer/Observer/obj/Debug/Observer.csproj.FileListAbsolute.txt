@@ -1,0 +1,9 @@
+C:\Users\YakupAd-MacBook-Win7\Documents\Visual Studio 2013\Projects\Observer\Observer\bin\Debug\Observer.exe.config
+C:\Users\YakupAd-MacBook-Win7\Documents\Visual Studio 2013\Projects\Observer\Observer\obj\Debug\Observer.Properties.Resources.resources
+C:\Users\YakupAd-MacBook-Win7\Documents\Visual Studio 2013\Projects\Observer\Observer\obj\Debug\Observer.csproj.GenerateResource.Cache
+C:\Users\YakupAd-MacBook-Win7\Documents\Visual Studio 2013\Projects\Observer\Observer\bin\Debug\Observer.exe
+C:\Users\YakupAd-MacBook-Win7\Documents\Visual Studio 2013\Projects\Observer\Observer\bin\Debug\Observer.pdb
+C:\Users\YakupAd-MacBook-Win7\Documents\Visual Studio 2013\Projects\Observer\Observer\obj\Debug\Observer.exe
+C:\Users\YakupAd-MacBook-Win7\Documents\Visual Studio 2013\Projects\Observer\Observer\obj\Debug\Observer.pdb
+C:\Users\YakupAd-MacBook-Win7\Documents\Visual Studio 2013\Projects\Observer\Observer\obj\Debug\Observer.Form1.resources
+C:\Users\YakupAd-MacBook-Win7\Documents\Visual Studio 2013\Projects\Observer\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
